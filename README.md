@@ -1,4 +1,4 @@
-Esquema conceitual de Banco de Dados, para o curso de Database, ministrado pela DIO.
+modelo lógico hipotético, criado para o curso de Database, ministrado pela DIO.
 
 Objetivo:
 
